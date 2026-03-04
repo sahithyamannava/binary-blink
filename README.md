@@ -1,2 +1,2 @@
-# binary-blink
-IOT project in led blinking in binary manner
+# iot projects 
+IOT projects done through wokwi
